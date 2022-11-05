@@ -133,6 +133,6 @@
 
       ![perulangan-latihan2](https://user-images.githubusercontent.com/115919203/200096239-f756962b-768d-4694-9921-daa533e80a71.png)
 
-      ### Baik Kurang lebih seperti itu untuk pembelajaran mengenai kondisi dan perulangan pada bahasa pemrogramman python,
+      ### Baik Kurang lebih seperti itu untuk pembelajaran mengenai kondisi dan perulangan pada bahasa pemrogramman python.
       ___________________
        TERIMA KASIH
